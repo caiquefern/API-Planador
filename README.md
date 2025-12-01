@@ -1,5 +1,8 @@
 # Projeto: Planador com Propulsão Elástica
 
+## 👥 Equipe
+Grupo: **AERO MECS**
+
 ## 🛩 Sobre o Projeto
 Este projeto consiste na criação de um **planador com propulsão elástica**, desenvolvido pelo grupo **AERO MECS**. O objetivo é projetar e construir um planador funcional utilizando materiais leves e um sistema de propulsão baseado em energia elástica.
 
@@ -32,9 +35,6 @@ Este projeto é físico, mas você pode acompanhar a documentação e resultados
 - Foam board (asa e estabilizadores)
 - Hélice específica para planadores
 - Garrote hospitalar (propulsão)
-
-## 👥 Equipe
-Grupo: **AERO MECS**
 
 ## 👥 Integrantes do Grupo AERO MECS
 - **ALAN DOUGLAS FAGUNDES DA SILVA**
